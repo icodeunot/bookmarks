@@ -18,3 +18,4 @@ media/
 
 # System
 .DS_Store
+db.sqlite3
